@@ -42,7 +42,7 @@ Track Quiz is a comprehensive quiz game developed in Python, featuring a graphic
 *   Make sure you have **Python 3** installed on your machine.
 
 **2. Clone the Repository**
-cd your-project-name
-python quiz.py
+*   cd your-project-name
+*   python quiz.py
 
-or use .exe
+*   or use .exe
